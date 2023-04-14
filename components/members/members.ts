@@ -151,7 +151,7 @@ const members = () => [
     ],
   },
   {
-    name: "Kouta",
+    name: "Kouta(除名中)",
     names: {
       ja: "巧太"
     },
@@ -316,8 +316,8 @@ const members = () => [
       ja: "サミット"
     },
     descs: {
-      en: "If you can, please give me a Hi-Mecha Holder h5005, Hi-Uni 5-5050, Mechanica MEC, a FlashPaPa CD and a Solid State Survivor record.",
-      ja: "できることなら僕に、ハイメカホルダーh5005,ハイユニ5-5050,メカニカMECと、FlashPaPaのCDとソリッドステイトサヴァイヴァーのレコードをお恵みください。"
+      en: "If you can, please give me Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC, FlashPaPa CDs and Solid State Survivor records.",
+      ja: "できることなら僕に、Automatic-h5005,ハイユニ5-5050,メカニカMECと、FlashPaPaのCDとソリッドステイトサヴァイヴァーのレコードをお恵みください。"
     },
     posts: ["Developer"],
     skills: ["Java","Python"],
