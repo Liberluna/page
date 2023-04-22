@@ -46,9 +46,9 @@ const members = () => [
     ],
   },
   {
-    name: "sosu",
+    name: "Mizore",
     names: {
-      ja: "素数"
+      ja: "ミゾレ"
     },
     descs: {
       en: "",
