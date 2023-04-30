@@ -77,7 +77,7 @@ const members = () => [
     },
     descs: {
       en: "I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we value ties. thank you.",
-      ja: "ぼんずです。\"Liberluna\"の名前の考案者です。副官やってます。名前の通り絆を大切にしています。よろしくお願いします。"
+      ja: "Bondsです。\"Liberluna\"の名前の考案者です。副官やってます。Liberlunaのdeveloperは全員俺の弟子(舎弟)。"
     },
     posts: ["SubLeader","Developer"],
     skills: ["C", "C++", "HTML&CSS", "JavaScript", "Python", "KaliLinux"],
